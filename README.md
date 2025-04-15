@@ -30,6 +30,9 @@ This task demonstrates how to group and analyze data based on time trends using 
 ---
 
 ## 🧾 SQL Query Screenshort
+| 📌 | ![Screenshot](./Screenshot%20(299).png) |
 
+## 📄 Reports
 
-
+- 📘 [SQL Script: Sales_trend_analysis.sql](./checkpoint.ipynb)
+  
