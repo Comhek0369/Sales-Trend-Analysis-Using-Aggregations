@@ -30,7 +30,7 @@ This task demonstrates how to group and analyze data based on time trends using 
 ---
 
 ## 🧾 SQL Query Screenshort
-| 📌 | ![Screenshot](./Screenshot%20(312).png)|
+| 📌 | ![Screenshot](./Screenshot%20(312).png)
 
 ## 📄 Reports
 
